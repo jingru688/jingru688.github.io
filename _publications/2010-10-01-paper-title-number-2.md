@@ -1,14 +1,9 @@
 ---
-title: "Paper Title Number 2"
+title: "The Economic Behavior of AI Agents: Rationality and Reasoning in Large Language Models"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: jmp
+date: 2025-10-01
+paperurl: 'https://drive.google.com/file/d/19A6Kk3U_v_ie_Ed7-eUkCdMQFN-K_XxY/view'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+As large language models (LLMs) take on increasingly consequential roles as autonomous decision-makers, un- derstanding their economic reasoning and fairness is essential. We present a unified behavioral framework that combines experimental economics, game-theoretic analysis, and fairness assessment to rigorously evaluate how LLMs navigate uncertainty, interact strategically, and respond to demographic context. Our study demonstrates that these models consistently display bounded rationality, exhibiting systematic patterns in risk and loss sen- sitivity, and distinct reasoning depths across a spectrum of strategic settings. Critically, we show that LLMs’ decision processes are shaped not only by their underlying architectures but also by contextual factors such as de- mographic cues, revealing nuanced fairness concerns that go beyond surface-level outputs. By bridging behavioral science with computational evaluation, our approach establishes a robust foundation for diagnosing, comparing, and ultimately aligning the economic behavior of LLMs for real-world applications where both performance and ethical considerations are paramount.
