@@ -1,5 +1,5 @@
 ---
-title: "Pathways linking WASH access and women's empowerment"
+title: "Pathways linking WASH access and women/'s empowerment"
 collection: publications
 date: 2025-02-17
 venue: "Journal of Rural Studies"
