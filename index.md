@@ -20,6 +20,6 @@ My research spans AI Economics, Large Language Model (LLM) Agents, Causal Infere
 ### Highlights
 - 📄 **Publications & Working Papers:** see [Publications](/publications/)
 - 🧪 **Research:** project pages & datasets → [Research](/research/)
-- 📄 **CV:** [Download PDF](/files/CV_Jia.pdf)
+- 📄 **CV:** [Download PDF](/files/JingruJia_CV.pdf)
 
 
