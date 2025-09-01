@@ -59,9 +59,9 @@ $x-large                    : 1280px !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow : auto;
-$right-sidebar-width        : auto;
-$right-sidebar-width-wide   : auto;
+$right-sidebar-width-narrow : 280px;
+$right-sidebar-width        : 320px;
+$right-sidebar-width-wide   : 360px;
 
 $susy: (
     columns: 12,
