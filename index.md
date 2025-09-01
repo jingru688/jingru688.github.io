@@ -18,14 +18,16 @@ Please feel free to reach out to me at [jingruj3@illinois.edu](jingruj3@illinois
 - M.S. in Applied Economics and Management, Cornell University, 2019-2021
 - B.S. in Economics, Nankai University, 2015-2019
 
+### Work Experience
+- Economist Intern, Amazon, May 2025 - Aug 2025
+- Economist Intern, Amazon, May 2024 - Aug 2024
+
 ### Research Fields
 - AI Economics
 - Large Language Model (LLM) Agents
 - Causal Inference
 - Behavioral and Development Economics
 
-### Work Experience
-- Economist Intern, Amazon, May 2025 - Aug 2025, May 2024 - Aug 2024. 
 
 ### Highlights
 - 📄 **Publications & Working Papers:** see [Publications](/publications/)
