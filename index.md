@@ -24,9 +24,11 @@ Please feel free to reach out to me at [jingruj3@illinois.edu](jingruj3@illinois
 - Causal Inference
 - Behavioral and Development Economics
 
+### Work Experience
+- Economist Intern, Amazon, May 2025 - Aug 2025, May 2024 - Aug 2024. 
+
 ### Highlights
 - 📄 **Publications & Working Papers:** see [Publications](/publications/)
-- 🧪 **Research:** project pages & datasets → [Research](/research/)
 - 📄 **CV:** [Download PDF](/files/JingruJia_CV.pdf)
 
 
