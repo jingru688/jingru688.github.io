@@ -12,6 +12,7 @@ classes: wide            # optional: makes content a bit wider
 
 Welcome! I’m a Ph.D. candidate in Agricultural & Applied Economics at UIUC.  
 I will be on the job market in the 2025-2026 academic year.
+Please feel free to reach out to me at [jingruj3@illinois.edu](jingruj3@illinois.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/jingrujia/).
 
 ### Education
 - Ph.D. Candidate in Applied Economics, University of Illinois Urbana Champaign, 2021-2026 (Expected)
