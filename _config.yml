@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate in Applied Economics"
   location         : #"Earth"
-  employer         : "University of Illinois Urbana-Champaign"
+  employer         : #"University of Illinois Urbana-Champaign"
   uri              : # URL
   email            : "jingruj3@illinois.edu" 
 
@@ -55,7 +55,6 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  linkedin         : "https://www.linkedin.com/in/jingrujia/"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -64,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : [jingrujia](https://www.linkedin.com/in/jingrujia/)
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
