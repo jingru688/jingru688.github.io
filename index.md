@@ -24,8 +24,11 @@ B.S. in Economics, Nankai University, 2015-2019
 
 ### Research Fields
 AI Economics
+
 Large Language Model (LLM) Agents
+
 Causal Inference
+
 Behavioral and Development Economics
 
 ### Highlights
