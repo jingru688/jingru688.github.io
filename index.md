@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Jessica Jia"
+title: "Jingru Jia"
 author_profile: true     # shows your sidebar/author card on the homepage
 classes: wide            # optional: makes content a bit wider
 # Optional hero image (put an image in /images/ and uncomment)
