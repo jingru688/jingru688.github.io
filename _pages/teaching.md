@@ -6,9 +6,8 @@ author_profile: true
 ---
 ### Guest Lecturer and Teaching Assistant
 - ACE 474 Consumer Economics (Spring 2025), UIUC
-(Excellent Teaching Award)
 
-[Course evaluation](/files/ICES ACE474.pdf)
+    Excellent Teaching Award, [Course evaluation](/files/ICES ACE474.pdf)
 
 ### Discussion Session Instructor
 - ACE 251 World Food Economy (Fall 2023), UIUC
