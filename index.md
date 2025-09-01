@@ -30,7 +30,7 @@ Please feel free to reach out to me at [jingruj3@illinois.edu](jingruj3@illinois
 
 
 ### Highlights
-- 📄 **Publications & Working Papers:** see [Publications](/publications/)
-- 📄 **CV:** [Download PDF](/files/JingruJia_CV.pdf)
+- 📚 **Publications & Working Papers:** see [Publications](/publications/)
+- 📁 **CV:** [Download PDF](/files/JingruJia_CV.pdf)
 
 
