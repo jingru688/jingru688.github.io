@@ -11,7 +11,7 @@ author_profile: true
 {%- for g in groups -%}
   {%- assign key = g.name -%}
   {%- assign label = site.publication_category[key].title | default: key -%}
-  <h2>{{ label }}</h2>
+  <h2 id="{{ key | slugify }}">{{ label }}</h2>
   {%- for post in g.items reversed -%}
     {% include archive-single.html %}
   {%- endfor -%}
