@@ -1,11 +1,12 @@
 ---
 title: "Pathways linking WASH access and women's empowerment"
 collection: publications
-category: paper
+category: 'paper'
 date: 2025-02-17
 venue: 'Journal of Rural Studies'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0743016725000427'
 citation: 'Jia, Jingru, et al. (2025) "Pathways linking WASH access and women's empowerment: Evidence from Zambia and Honduras." Journal of Rural Studies 116: 103602.'
+selected: true
 ---
 
 Achieving universal access to improved water, sanitation and hygiene (WASH) services and facilities is considered essential for gender equality and empowerment, yet empirical evidence of how and what WASH is essential for responding to the challenges of women's gender equality and empowerment in low-income countries is limited.
