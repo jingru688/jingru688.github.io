@@ -14,11 +14,9 @@ Welcome! I’m a Ph.D. candidate in Agricultural & Applied Economics at UIUC.
 I will be on the job market in the 2025-2026 academic year.
 
 ### Education
-Ph.D. Candidate in Applied Economics, University of Illinois Urbana Champaign, 2021-2026 (Expected)
-
-M.S. in Applied Economics and Management, Cornell University, 2019-2021
-
-B.S. in Economics, Nankai University, 2015-2019
+- Ph.D. Candidate in Applied Economics, University of Illinois Urbana Champaign, 2021-2026 (Expected)
+- M.S. in Applied Economics and Management, Cornell University, 2019-2021
+- B.S. in Economics, Nankai University, 2015-2019
 
 ### Research Fields
 - AI Economics
