@@ -9,7 +9,7 @@ classes: wide            # optional: makes content a bit wider
 #   overlay_filter: 0.25
 #   caption: "Photo: your caption here"
 ---
-Welcome! I’m a Ph.D. candidate in Agricultural & Applied Economics at UIUC.  
+Welcome! I’m a Ph.D. candidate in Applied Economics at UIUC.  
 I will be on the job market in the 2025-2026 academic year.
 Please feel free to reach out to me at [jingruj3@illinois.edu](jingruj3@illinois.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/jingrujia/).
 
