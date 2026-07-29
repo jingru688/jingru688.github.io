@@ -48,12 +48,8 @@ redirect_from:
     <span class="what"><strong>Economist &amp; Research Scientist</strong><span class="org">Amazon</span></span>
   </li>
   <li>
-    <span class="when">Summer 2025</span>
-    <span class="what"><strong>Economist Intern</strong><span class="org">Amazon</span></span>
-  </li>
-  <li>
-    <span class="when">Summer 2024</span>
-    <span class="what"><strong>Economist Intern</strong><span class="org">Amazon</span></span>
+    <span class="when">Summers 2024 and 2025</span>
+    <span class="what"><strong>Intern</strong><span class="org">Amazon</span></span>
   </li>
 </ul>
 </div>
@@ -62,23 +58,18 @@ redirect_from:
 <h2>Education</h2>
 <ul class="cv-list">
   <li>
-    <span class="when">2026</span>
-    <span class="what"><strong>Ph.D. in Applied Economics</strong><span class="org">University of Illinois Urbana-Champaign</span></span>
+    <span class="when">2021 to 2026</span>
+    <span class="what"><strong>Ph.D.</strong>, University of Illinois Urbana-Champaign</span>
   </li>
   <li>
-    <span class="when">2021</span>
-    <span class="what"><strong>M.S. in Applied Economics and Management</strong><span class="org">Cornell University</span></span>
+    <span class="when">2019 to 2021</span>
+    <span class="what"><strong>M.S.</strong>, Cornell University</span>
   </li>
   <li>
-    <span class="when">2019</span>
-    <span class="what"><strong>B.S. in Economics</strong><span class="org">Nankai University</span></span>
+    <span class="when">2015 to 2019</span>
+    <span class="what"><strong>B.S.</strong>, Nankai University</span>
   </li>
 </ul>
-</div>
-
-<div class="cv-section">
-<h2>Research Interests</h2>
-<p>AI agents (evaluation and post-training) &middot; causal inference &middot; experiment design and calibration &middot; behavioral and development economics</p>
 </div>
 
 <div class="cv-section">
