@@ -44,7 +44,7 @@ redirect_from:
 <h2>Experience</h2>
 <ul class="cv-list">
   <li>
-    <span class="when">2026 &ndash; present</span>
+    <span class="when">2026 to present</span>
     <span class="what"><strong>Economist &amp; Research Scientist</strong><span class="org">Amazon</span></span>
   </li>
   <li>
@@ -112,7 +112,7 @@ redirect_from:
 <ul class="cv-list">
   <li>
     <span class="when">In progress</span>
-    <span class="what">Measuring and Closing the Value&ndash;Action Gap in LLM Agents</span>
+    <span class="what">Measuring and Closing the Value Action Gap in LLM Agents</span>
   </li>
 </ul>
 <p class="cv-note">Additional manuscripts in behavioral and development economics are completed and forthcoming.</p>
@@ -140,4 +140,4 @@ redirect_from:
 </ul>
 </div>
 
-<p class="cv-note">A PDF version of my CV is available on request &mdash; please <a href="mailto:jingruj3@illinois.edu">email me</a>.</p>
+<p class="cv-note">A PDF version of my CV is available on request. Please <a href="mailto:cocojj0101@gmail.com">email me</a>.</p>

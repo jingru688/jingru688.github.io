@@ -14,32 +14,13 @@ classes: wide
     border: 1px solid var(--global-border-color);
     border-left: 4px solid var(--global-link-color);
     border-radius: 4px;
-    background: var(--global-footer-bg-color);
+    background: rgba(127, 127, 127, .10);
   }
   .callout p { margin: 0 0 .6em 0; line-height: 1.6; }
   .callout p:last-child { margin-bottom: 0; }
-  .callout .callout-title {
-    font-weight: 700;
-    letter-spacing: .01em;
-  }
+  .callout .callout-title { font-weight: 700; letter-spacing: .01em; }
 
-  .timeline { list-style: none; margin: 0 0 1.5em 0; padding: 0; }
-  .timeline li {
-    display: grid;
-    grid-template-columns: 11em 1fr;
-    gap: .25em 1em;
-    padding: .5em 0;
-    border-bottom: 1px solid var(--global-border-color);
-  }
-  .timeline li:last-child { border-bottom: 0; }
-  .timeline .when {
-    color: var(--global-text-color-light);
-    font-size: .92em;
-    white-space: nowrap;
-    padding-top: .12em;
-  }
-  .timeline .what { font-size: 1em; }
-  .timeline .what .org { color: var(--global-text-color-light); }
+  .field-intro { line-height: 1.7; margin-bottom: 1.1em; }
 
   .pubs { list-style: none; margin: 0 0 1.6em 0; padding: 0; }
   .pubs li {
@@ -67,59 +48,20 @@ classes: wide
   }
 
   .note { color: var(--global-text-color-light); font-size: .95em; }
-
-  @media (max-width: 600px) {
-    .timeline li { grid-template-columns: 1fr; }
-    .timeline .when { font-size: .85em; }
-  }
 </style>
 
 <p class="lede">Hello! I am an economist and research scientist at <strong>Amazon</strong>, where I work on AI agents, causal inference, and experiment calibration. Before joining Amazon, I completed my Ph.D. at the University of Illinois Urbana-Champaign.</p>
 
-<p class="lede">My current research asks how AI agents behave as decision-makers — how to measure that behavior rigorously, and how to shape it through post-training. Earlier in my career I worked as a behavioral and development economist, designing field experiments and randomized controlled trials in sub-Saharan Africa and Central America.</p>
-
 <div class="callout">
   <p class="callout-title">I welcome research collaborations.</p>
-  <p>I am especially interested in the evaluation and post-training of AI agents. I am glad to collaborate in either capacity — through Amazon on applied, industry-facing questions, or independently as an academic researcher on open-ended work. If you are working on something related, please <a href="mailto:jingruj3@illinois.edu">get in touch</a>.</p>
+  <p>I mainly focus on the evaluation and post-training of AI agents. I am glad to collaborate in either capacity: through Amazon on applied, industry-facing questions, or independently as an academic researcher on open-ended work. If you are working on something related, please <a href="mailto:cocojj0101@gmail.com">get in touch</a>.</p>
 </div>
-
-## Experience
-
-<ul class="timeline">
-  <li>
-    <span class="when">2026 &ndash; present</span>
-    <span class="what"><strong>Economist &amp; Research Scientist</strong><br><span class="org">Amazon</span></span>
-  </li>
-  <li>
-    <span class="when">Summer 2025</span>
-    <span class="what"><strong>Economist Intern</strong><br><span class="org">Amazon</span></span>
-  </li>
-  <li>
-    <span class="when">Summer 2024</span>
-    <span class="what"><strong>Economist Intern</strong><br><span class="org">Amazon</span></span>
-  </li>
-</ul>
-
-## Education
-
-<ul class="timeline">
-  <li>
-    <span class="when">2026</span>
-    <span class="what"><strong>Ph.D.</strong><br><span class="org">University of Illinois Urbana-Champaign</span></span>
-  </li>
-  <li>
-    <span class="when">2021</span>
-    <span class="what"><strong>M.S.</strong><br><span class="org">Cornell University</span></span>
-  </li>
-  <li>
-    <span class="when">2019</span>
-    <span class="what"><strong>B.S.</strong><br><span class="org">Nankai University</span></span>
-  </li>
-</ul>
 
 ## Research
 
 ### AI agents: evaluation and post-training
+
+<p class="field-intro">I study how AI agents behave: how they reason and make decisions under uncertainty, how they act strategically when other agents are involved, and how post-training shapes that behavior. This work brings the tools of experimental economics to the evaluation of AI systems.</p>
 
 <ul class="pubs">
   <li>
@@ -135,11 +77,13 @@ classes: wide
     <span class="venue">NeurIPS 2024 Workshop on Behavioral Machine Learning</span>
   </li>
   <li>
-    Measuring and Closing the Value&ndash;Action Gap in LLM Agents<span class="tag">Working paper</span>
+    Measuring and Closing the Value Action Gap in LLM Agents<span class="tag">Working paper</span>
   </li>
 </ul>
 
 ### Behavioral and development economics
+
+<p class="field-intro">Earlier in my career, before I became an AI economist, I worked as a behavioral and development economist, designing field experiments and randomized controlled trials in sub-Saharan Africa and Central America.</p>
 
 <ul class="pubs">
   <li>
@@ -156,4 +100,4 @@ classes: wide
 
 ## Contact
 
-The fastest way to reach me is by <a href="mailto:jingruj3@illinois.edu">email</a>, or you can connect with me on <a href="https://www.linkedin.com/in/jingrujia/">LinkedIn</a>.
+The fastest way to reach me is by <a href="mailto:cocojj0101@gmail.com">email</a>, or you can connect with me on <a href="https://www.linkedin.com/in/jingrujia/">LinkedIn</a>.
